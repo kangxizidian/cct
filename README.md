@@ -1,5 +1,6 @@
 # core-chinese-text
 核心古籍 htll 格式
+obsolete  use  https://github.com/accelon/cct  instead
 
 ## XML 語法檢查
 檢查是否有空標籤 （html 模式不允許，會干擾文件結構）
